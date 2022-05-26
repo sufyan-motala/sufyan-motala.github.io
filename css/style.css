@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.placeholder {
+    position: fixed;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
